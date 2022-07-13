@@ -19,7 +19,7 @@
     "@mui/icons-material": "^5.3.1",
     "@mui/lab": "^5.0.0-alpha.66",
     "@mui/material": "^5.3.1",
-    "@mui/styles": "^5.4.2",
+    "@mui/styles": "^5.8.4",
     "allotment": "^1.9.0",
     "deepmerge": "^4.2.2",
     "graphql": "^16.2.0",
