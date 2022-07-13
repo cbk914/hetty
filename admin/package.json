@@ -11,7 +11,7 @@
     "generate": "graphql-codegen --config gqlcodegen.yml"
   },
   "dependencies": {
-    "@apollo/client": "^3.2.0",
+    "@apollo/client": "^3.6.8",
     "@emotion/react": "^11.7.1",
     "@emotion/server": "^11.4.0",
     "@emotion/styled": "^11.6.0",
